@@ -1,3 +1,17 @@
+# Learning Programming
+
+This repository contains projects and exercises from my programming studies.
+
+## Technologies
+- Python
+- JavaScript
+- HTML
+- CSS
+
+## Goal
+Improve my programming skills and build practical projects.
+
+
 # Previsor de Preços de Imóveis com IA 🏠
 
 Este é o meu primeiro projeto de Machine Learning! Desenvolvi um modelo de **Regressão Linear** que aprende a relação entre o tamanho de uma casa e o seu preço de mercado.
